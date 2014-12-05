@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text"></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="url">https://api.vk.com/method/wall.getById?posts=-41915192_105,-41915192_116,-41915192_115,-41915192_109,-41915192_107,-41915192_104,-41915192_101,-41915192_99,-41915192_98,-41915192_94,-41915192_85,-41915192_84,-41915192_66,-41915192_54,-41915192_50,-41915192_46,-41915192_45,-41915192_36,-41915192_26,-41915192_15,-41915192_7&amp;extended=1></string>
+
+</resources>
